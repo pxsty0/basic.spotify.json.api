@@ -1,0 +1,15 @@
+{
+  "name": "spotifyapi",
+  "version": "0.0.1",
+  "description": "spotify api",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PXSTY",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "spotify-mini": "^2.0.0"
+  }
+}
